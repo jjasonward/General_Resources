@@ -7,6 +7,7 @@
 | [Learning Python, 5th Edition](http://shop.oreilly.com/product/0636920028154.do) by M. Lutz | Book | |
 | [Elegant SciPy](http://shop.oreilly.com/product/0636920038481.do) by J. Nunez-Iglesias, S. van der Walt & H. Dashnow | Book | Of particular interest is Chapter 8 "Big Data in Little Laptop with Toolz", as this speaks to the streaming data frame of mind. |
 | [Effective Python.  59 Specific Ways to Write Better Python](https://effectivepython.com) by B. Slatkin | Book | |
+| [Python for Data Analysis, 2nd Edition](https://www.oreilly.com/library/view/python-for-data/9781491957653/) by W. McKinney | Book | |
 
 ## Data Science
 
