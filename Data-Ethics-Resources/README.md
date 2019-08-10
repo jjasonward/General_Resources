@@ -45,6 +45,9 @@ Threatens Democracy, by Cathy O'Neill, Penguin, July 2017.
 
 ## Articles
 
+1. [Publicising Surgeons' Performance: The Maths of Naming and Shaming](https://gateway.newton.ac.uk/presentation/2016-04-20/18966) by David Spiegelhalter, presentation at Newton Gateway to Mathematics, Cambridge, April 20, 2016.
+	* Conclusions slide is a particularly useful set of guidelines. 
+
 ## Other References
 
 1. [Big data ethics on Wikipedia](https://en.wikipedia.org/wiki/Big_data_ethics)
