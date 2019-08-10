@@ -9,6 +9,7 @@
    [Department for Digital, Culture, Media and Sport](https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport) (DCMS)
    * [Call for Evidence: Review of Online Targeting](https://www.gov.uk/government/publications/the-centre-for-data-ethics-and-innovation-calls-for-evidence-on-online-targeting-and-bias-in-algorithmic-decision-making/centre-for-data-ethics-and-innovation-review-of-online-targeting)
    * [Call for Evidence: Review on bias in algorithmic Decision Making](https://www.gov.uk/government/publications/the-centre-for-data-ethics-and-innovation-calls-for-evidence-on-online-targeting-and-bias-in-algorithmic-decision-making/centre-for-data-ethics-and-innovation-review-on-bias-in-algorithmic-decision-making)
+   * The [Interim Reports](https://www.gov.uk/government/publications/interim-reports-from-the-centre-for-data-ethics-and-innovation) for the two items above, published 19 July 2019.
    * [Prime Minister speech on national centre for ethical oversight of AI](https://royalsociety.org/news/2018/01/prime-minister-speech-on-national-centre-for-ethical-oversight-of-ai/), 25 January 2018, where the then Prime Minister outlined plans for the CDEI based on calls by [The British Academy and Royal Society](https://royalsociety.org/topics-policy/projects/data-governance/) for a stewardship body.
    
 3. [Data Ethics Group of the Alan Turing Institute, UK](https://www.turing.ac.uk/research/data-ethics)
