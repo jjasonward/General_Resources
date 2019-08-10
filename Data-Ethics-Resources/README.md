@@ -39,14 +39,14 @@ Threatens Democracy, by Cathy O'Neill, Penguin, July 2017.
 
 ## Talks
 
+1. [Publicising Surgeons' Performance: The Maths of Naming and Shaming](https://gateway.newton.ac.uk/presentation/2016-04-20/18966) by David Spiegelhalter, presentation at Newton Gateway to Mathematics, Cambridge, April 20, 2016.
+	* Conclusions slide is a particularly useful set of guidelines. 
+
 ## Academic Publications
 
 1. Libby Bishop (2017).  Big data and data sharing: Ethical issues. UK Data Service, UK Data Archive.  Link [here](https://ukdataservice.ac.uk/media/604711/big-data-and-data-sharing_ethical-issues.pdf).
 
 ## Articles
-
-1. [Publicising Surgeons' Performance: The Maths of Naming and Shaming](https://gateway.newton.ac.uk/presentation/2016-04-20/18966) by David Spiegelhalter, presentation at Newton Gateway to Mathematics, Cambridge, April 20, 2016.
-	* Conclusions slide is a particularly useful set of guidelines. 
 
 ## Other References
 
