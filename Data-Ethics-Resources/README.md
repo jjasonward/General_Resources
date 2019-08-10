@@ -50,4 +50,6 @@
 
 ## Other References
 
-1. [Big data ethics on Wikipedia](https://en.wikipedia.org/wiki/Big_data_ethics)
+1. [Big data ethics](https://en.wikipedia.org/wiki/Big_data_ethics) on Wikipedia.
+
+2. [General Data Protection Regulation](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) on Wikipedia.
