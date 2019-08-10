@@ -12,7 +12,7 @@
    * The [Interim Reports](https://www.gov.uk/government/publications/interim-reports-from-the-centre-for-data-ethics-and-innovation) for the two items above, published 19 July 2019.
    * [Prime Minister speech on national centre for ethical oversight of AI](https://royalsociety.org/news/2018/01/prime-minister-speech-on-national-centre-for-ethical-oversight-of-ai/), 25 January 2018, where the then Prime Minister outlined plans for the CDEI based on calls by [The British Academy and Royal Society](https://royalsociety.org/topics-policy/projects/data-governance/) for a stewardship body.
    
-3. [A guide to using artificial intelligence in the public sector](https://www.gov.uk/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector) jointly published by the [UK's Government Digitial Service (GDS)](https://www.gov.uk/government/organisations/government-digital-service) and the [UK's Office for Artificial Intelligence (OAI)](https://www.gov.uk/government/organisations/office-for-artificial-intelligence)
+3. [A guide to using artificial intelligence in the public sector](https://www.gov.uk/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector) jointly published by the [UK's Government Digitial Service (GDS)](https://www.gov.uk/government/organisations/government-digital-service) and the [UK's Office for Artificial Intelligence (OAI)](https://www.gov.uk/government/organisations/office-for-artificial-intelligence), published 10 June 2019.
 
 4. [Data Ethics Group of the Alan Turing Institute, UK](https://www.turing.ac.uk/research/data-ethics)
    
