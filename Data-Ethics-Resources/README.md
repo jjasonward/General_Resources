@@ -2,7 +2,7 @@
 
 ## Organisations
 
-1. [GOV.UK Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework)
+1. [GOV.UK Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework) and the [Data Ethics Workbook](https://www.gov.uk/government/publications/data-ethics-workbook/data-ethics-workbook)
 
 2. [GOV.UK Centre for Data Ethics and Innovation](https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation)
    * This is a part of
