@@ -26,6 +26,8 @@
 
 8. The [Data Ethics](https://www.statisticsauthority.gov.uk/about-the-authority/committees/nsdec/) page from the UK Statistics Authority - information about the processes that the UKSA has developed to help researchers consider the ethics of their research.
 
+9. [OECD Principles on Artificial Intelligence](https://www.oecd.org/going-digital/ai/principles/) 
+
 ## Books
 
 ### Textbooks
