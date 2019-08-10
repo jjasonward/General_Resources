@@ -46,6 +46,8 @@
 
 ## Articles
 
+1. [Co-op Digital Blog: What we learnt from talking to our members about data](https://digitalblog.coop.co.uk/2017/06/06/what-we-learnt-from-talking-to-our-members-about-data/), 6 June 2017.
+
 ## Other References
 
 1. [Big data ethics on Wikipedia](https://en.wikipedia.org/wiki/Big_data_ethics)
