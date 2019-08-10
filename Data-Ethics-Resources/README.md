@@ -22,6 +22,8 @@
   
 6. The [Data Ethics Special Interest Group](http://www.rss.org.uk/RSS/Get_involved/Special_Interest_Groups_/Data_Ethics/RSS/Get_involved/New_Special_Interest_Group_/Data_Ethics.aspx) of the Royal Statistical Society
 
+7. The [Data Ethics](https://www.statisticsauthority.gov.uk/about-the-authority/committees/nsdec/) page from the UK Statistics Authority - information about the processes that the UKSA has developed to help researchers consider the ethics of their research.
+
 ## Books
 
 ### Textbooks
