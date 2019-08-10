@@ -4,9 +4,9 @@
 
 1. [GOV.UK Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework) and the [Data Ethics Workbook](https://www.gov.uk/government/publications/data-ethics-workbook/data-ethics-workbook)
 
-2. [GOV.UK Centre for Data Ethics and Innovation](https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation)
+2. [GOV.UK Centre for Data Ethics and Innovation](https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation) (CDEI)
    * This is a part of
-   [Department for Digital, Culture, Media and Sport](https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport)
+   [Department for Digital, Culture, Media and Sport](https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport) (DCMS)
    * [Call for Evidence: Review of Online Targeting](https://www.gov.uk/government/publications/the-centre-for-data-ethics-and-innovation-calls-for-evidence-on-online-targeting-and-bias-in-algorithmic-decision-making/centre-for-data-ethics-and-innovation-review-of-online-targeting)
    * [Call for Evidence: Review on bias in algorithmic Decision Making](https://www.gov.uk/government/publications/the-centre-for-data-ethics-and-innovation-calls-for-evidence-on-online-targeting-and-bias-in-algorithmic-decision-making/centre-for-data-ethics-and-innovation-review-on-bias-in-algorithmic-decision-making)
    
