@@ -12,17 +12,19 @@
    * The [Interim Reports](https://www.gov.uk/government/publications/interim-reports-from-the-centre-for-data-ethics-and-innovation) for the two items above, published 19 July 2019.
    * [Prime Minister speech on national centre for ethical oversight of AI](https://royalsociety.org/news/2018/01/prime-minister-speech-on-national-centre-for-ethical-oversight-of-ai/), 25 January 2018, where the then Prime Minister outlined plans for the CDEI based on calls by [The British Academy and Royal Society](https://royalsociety.org/topics-policy/projects/data-governance/) for a stewardship body.
    
-3. [Data Ethics Group of the Alan Turing Institute, UK](https://www.turing.ac.uk/research/data-ethics)
-   
-4. [Ada Lovelace Institute, UK](https://www.adalovelaceinstitute.org)
+3. [A guide to using artificial intelligence in the public sector](https://www.gov.uk/government/collections/a-guide-to-using-artificial-intelligence-in-the-public-sector) jointly published by the [UK's Government Digitial Service (GDS)](https://www.gov.uk/government/organisations/government-digital-service) and the [UK's Office for Artificial Intelligence (OAI)](https://www.gov.uk/government/organisations/office-for-artificial-intelligence)
 
-5. The
+4. [Data Ethics Group of the Alan Turing Institute, UK](https://www.turing.ac.uk/research/data-ethics)
+   
+5. [Ada Lovelace Institute, UK](https://www.adalovelaceinstitute.org)
+
+6. The
    [Data Ethics Canvas](https://theodi.org/article/data-ethics-canvas/)
    from the [Open Data Institute](https://theodi.org)
   
-6. The [Data Ethics Special Interest Group](http://www.rss.org.uk/RSS/Get_involved/Special_Interest_Groups_/Data_Ethics/RSS/Get_involved/New_Special_Interest_Group_/Data_Ethics.aspx) of the Royal Statistical Society
+7. The [Data Ethics Special Interest Group](http://www.rss.org.uk/RSS/Get_involved/Special_Interest_Groups_/Data_Ethics/RSS/Get_involved/New_Special_Interest_Group_/Data_Ethics.aspx) of the Royal Statistical Society
 
-7. The [Data Ethics](https://www.statisticsauthority.gov.uk/about-the-authority/committees/nsdec/) page from the UK Statistics Authority - information about the processes that the UKSA has developed to help researchers consider the ethics of their research.
+8. The [Data Ethics](https://www.statisticsauthority.gov.uk/about-the-authority/committees/nsdec/) page from the UK Statistics Authority - information about the processes that the UKSA has developed to help researchers consider the ethics of their research.
 
 ## Books
 
