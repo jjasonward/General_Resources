@@ -19,6 +19,8 @@
 5. The
    [Data Ethics Canvas](https://theodi.org/article/data-ethics-canvas/)
    from the [Open Data Institute](https://theodi.org)
+  
+6. The [Data Ethics Special Interest Group](http://www.rss.org.uk/RSS/Get_involved/Special_Interest_Groups_/Data_Ethics/RSS/Get_involved/New_Special_Interest_Group_/Data_Ethics.aspx) of the Royal Statistical Society
 
 ## Books
 
