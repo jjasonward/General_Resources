@@ -52,6 +52,8 @@
 
 1. [Co-op Digital Blog: What we learnt from talking to our members about data](https://digitalblog.coop.co.uk/2017/06/06/what-we-learnt-from-talking-to-our-members-about-data/), 6 June 2017.
 
+2. [Article](https://www.theregister.co.uk/2019/02/05/uk_government_data_ethics_centre/) from The Register dated 5 Feb 2019 on the UK's CDEI.
+
 ## Other References
 
 1. [Big data ethics](https://en.wikipedia.org/wiki/Big_data_ethics) on Wikipedia.
