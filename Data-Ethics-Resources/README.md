@@ -28,6 +28,8 @@
 
 9. [OECD Principles on Artificial Intelligence](https://www.oecd.org/going-digital/ai/principles/) 
 
+10. [EU Ethics Guidelines for trustworthy AI](https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai), published 8 April 2019.
+
 ## Books
 
 ### Textbooks
