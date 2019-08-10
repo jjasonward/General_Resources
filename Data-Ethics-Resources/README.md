@@ -23,10 +23,10 @@
 ### Textbooks
 
 1. [Ethics and Data Science](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/) by M. Loukides, H. Mason and DJ Patil, O'Reilly Media, Inc., July 2018.
-   	* 39 pages
+	* 39 pages
 
 2. Ethical Data and Information Management: concepts, tools and methods, by Katherine O'Keefe and Daragh O'Brien, Kogan Page Ltd, 2018.
-   	* See [Amazon.co.uk](https://www.amazon.co.uk/Ethical-Data-Information-Management-Concepts/dp/0749482044) for example.
+	* See [Amazon.co.uk](https://www.amazon.co.uk/Ethical-Data-Information-Management-Concepts/dp/0749482044) for example.
 
 ### Popular Genre
 
