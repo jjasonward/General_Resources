@@ -20,7 +20,7 @@
 
 ## Books
 
-###Textbooks
+### Textbooks
 
 1. [Ethics and Data Science](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/)
    by M. Loukides, H. Mason and DJ Patil, O'Reilly Media, Inc.,
@@ -34,13 +34,13 @@
      [Amazon.co.uk](https://www.amazon.co.uk/Ethical-Data-Information-Management-Concepts/dp/0749482044)
      for example.
 
-###Popular Genre
+### Popular Genre
 
 1. Weapons of Math Destruction: How Big Data Increases Inequality and
 Threatens Democracy, by Cathy O'Neill, Penguin, July 2017.
-* See
-  [Amazon.co.uk](https://www.amazon.co.uk/Weapons-Math-Destruction-Increases-Inequality/dp/0141985410)
-  for example.
+	* See
+      [Amazon.co.uk](https://www.amazon.co.uk/Weapons-Math-Destruction-Increases-Inequality/dp/0141985410)
+      for example.
 
 ## Talks
 
