@@ -41,4 +41,6 @@ Threatens Democracy, by Cathy O'Neill, Penguin, July 2017.
 
 ## Academic Publications
 
+1. Libby Bishop (2017).  Big data and data sharing: Ethical issues. UK Data Service, UK Data Archive.  Link [here](https://ukdataservice.ac.uk/media/604711/big-data-and-data-sharing_ethical-issues.pdf).
+
 ## Articles
