@@ -6,7 +6,7 @@ From a STEM and personal perspective (in the UK)
 
 2. Be aware of various Centres for Doctoral Training (CDTs), for example see [here](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/funded-research-opportunities-doctoral-training-and-studentships/centres-doctoral) for an overview at UCL.
 
-3. [https://www.findaphd.com](https://www.findaphd.com)  This looks like a great way to do topic-focussed searches, e.g. "quantum information", "Higgs", "photon" etc.  Note postgrad faairs around Oct/Nov time.
+3. [https://www.findaphd.com](https://www.findaphd.com)  This looks like a great way to do topic-focussed searches, e.g. "quantum information", "Higgs", "photon" etc.  Note postgrad fairs around Oct/Nov time.
 
 ## Tips
 
