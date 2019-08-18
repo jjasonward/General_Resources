@@ -2,11 +2,11 @@
 
 From a STEM and personal perspective (in the UK)
 
-1. PhDs at the Alan Turing Institite, see [here](https://www.turing.ac.uk/work-turing/studentships/phd-at-turing).
+1. PhDs at the Alan Turing Institite, see [here](https://www.turing.ac.uk/work-turing/studentships/phd-at-turing).  The deadlines here tend to be December - a little earlier than some other timelines like January - April for an Autumn start.
 
 2. Be aware of various Centres for Doctoral Training (CDTs), for example see [here](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/funded-research-opportunities-doctoral-training-and-studentships/centres-doctoral) for an overview at UCL.
 
-3. [https://www.findaphd.com](https://www.findaphd.com)  This looks like a great way to do topic-focussed searches, e.g. "quantum information", "Higgs", "photon" etc.
+3. [https://www.findaphd.com](https://www.findaphd.com)  This looks like a great way to do topic-focussed searches, e.g. "quantum information", "Higgs", "photon" etc.  Note postgrad faairs around Oct/Nov time.
 
 ## Tips
 
