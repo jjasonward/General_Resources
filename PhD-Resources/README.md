@@ -18,4 +18,4 @@ From a STEM and personal perspective (in the UK)
 
 4. Ask your undergrad project advisors who they know and what/where they recommend.  At undergraduate level, you tend to think you are at one University or another and that it's relatively disconnected.  At postrad level and in the research world, everything is deeply connected by multi-institute grants, larger collaborations involving many institutes (including internationally).
 
-5. Think different.  Just because your degree is in one subject doesn't mean you have to stay in the straight and narrow confines of that subject.  In today's very data-driven world, with data spanning nearly all subject areas, there all more chances to cross-fertilise.
+5. Think different.  Just because your degree is in one subject doesn't mean you have to stay in the straight and narrow confines of that subject.  In today's very data-driven world, with data spanning nearly all subject areas, there are more chances to cross-fertilise.
