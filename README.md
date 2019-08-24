@@ -16,6 +16,8 @@
 |--------|-----|---------|
 | [Hands on Machine Learning with Scikit-Learn and Tensorflow](http://shop.oreilly.com/product/0636920052289.do) | Book | |
 | [Fundamentals of Deep Learning](https://www.oreilly.com/library/view/fundamentals-of-deep/9781491925607/) | Book | |
+| [Networks - Second Edition](https://www.amazon.co.uk/Networks-Mark-Newman/dp/0198805098/) by Mark Newman | Book | |
+| [Network Science](http://networksciencebook.com) by Albert-Laszlo Barabasi | Online | | 
 
 ## Data Engineering, Architecture...
 
