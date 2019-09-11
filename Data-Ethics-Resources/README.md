@@ -30,6 +30,8 @@
 
 10. [EU Ethics Guidelines for trustworthy AI](https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai), published 8 April 2019.
 
+11. [Microsfot AI Principles](https://www.microsoft.com/en-us/ai/our-approach-to-ai)
+
 ## Books
 
 ### Textbooks
