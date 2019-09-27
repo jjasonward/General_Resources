@@ -62,7 +62,7 @@
 
 2. [Article](https://www.theregister.co.uk/2019/02/05/uk_government_data_ethics_centre/) from The Register dated 5 Feb 2019 on the UK's CDEI.
 
-3. [Article](https://hyperallergic.com/518822/600000-images-removed-from-ai-database-after-art-project-exposes-racist-bias/) on ImageNet and racial bias.  There are numerous such articles on the same topic.
+3. [Article](https://hyperallergic.com/518822/600000-images-removed-from-ai-database-after-art-project-exposes-racist-bias/) on ImageNet and racial bias - and its exposure by the ImageNet Roulette project.  There are numerous such articles on the same topic.  (September 2019)
 
 ## Other References
 
