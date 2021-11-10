@@ -10,5 +10,19 @@
 | [The Life Scientific presented by Jim Al-Khalili](https://www.bbc.co.uk/programmes/b015sqc7)| Audio | |
 | The Secrets of Quantum Physics presented by Jim Al-Khalili | Documentary | 2-episode documentary available on Amazon Prime |
 | Sneaking a Look at God's Cards: Unraveling the Mysteries of Quantum Mechanics by Giancarlo Ghirardi | Book | |
+| Particle Physics Brick by Brick: Atomic and Subatomic Physics Explained...in Lego by Dr. Ben Still | Book | |
+| Smashing Physics: Inside the World's Biggest Experiment by Jon Butterworth | Book | |
+
+## Biographies
+
+| Reference | Type | Comment |
+|--------|-----|---------|
+| Einstein: His Life and Universe by Walter Isaacson | Book | |
+| The Strangest Man: The Hidden Life of Paul Dirac, Quantum Genius by Graham Farmelo | Book | |
+| Genius: Richard Feynman and Modern Physics by James Gleick | Book ||
+| Quantum Man: Richard Feynman's Life in Science by Lawrence M. Krauss| Book ||
+
+
+
 
 
