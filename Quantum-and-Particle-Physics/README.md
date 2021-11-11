@@ -21,7 +21,7 @@
 | The Strangest Man: The Hidden Life of Paul Dirac, Quantum Genius by Graham Farmelo | Book | |
 | Genius: Richard Feynman and Modern Physics by James Gleick | Book ||
 | Quantum Man: Richard Feynman's Life in Science by Lawrence M. Krauss| Book ||
-
+| Strange Beauty: Murray Gell-Mann and the Revolution in Twentieth-Century Physics by George Johnson (First publ. 2000) | Book ||
 
 
 
