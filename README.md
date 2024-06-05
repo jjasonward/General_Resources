@@ -19,6 +19,13 @@
 | [Networks - Second Edition](https://www.amazon.co.uk/Networks-Mark-Newman/dp/0198805098/) by Mark Newman | Book | |
 | [Network Science](http://networksciencebook.com) by Albert-Laszlo Barabasi | Online | | 
 
+## Time Series Analytics
+
+| Reference | Type | Comment |
+|--------|-----|---------|
+| [Time Series Analysis](https://www.amazon.co.uk/Time-Analysis-James-Douglas-Hamilton/dp/0691042896/) by James D. Hamilton | Book | A Bible in its field |
+| [Asset Price Dynamics, Volatility and Prediction](https://www.amazon.co.uk/Asset-Price-Dynamics-Volatility-Prediction/dp/0691134790/) by Stephen J. Taylor | Book | |
+
 ## Data Engineering, Architecture...
 
 | Reference | Type | Comment |
