@@ -2,6 +2,8 @@
 
 | Reference | Type | Comment |
 |--------|-----|---------|
+| Fascinating Particle Physics: Quarks, Neutrinos, the Higgs Boson and the Riddles of the Universe 
+by Bechtle, Bernlochner, Dreiner, Hanhart, Jochum, Pretz, Riebe (2025) | Book | |
 | Dance of the Photons: Einstein, Entanglement and Quantum Teleportation by Anton Zeilinger (2010-2023) | Book | |
 | Why Nobody Understands Quantum Physics by Frank Verstraete & Céline Broeckaert (2023) | Book | |
 | Quantum 2.0: The Past, Present, and Future of Quantum Physics by Paul Davies (2025) | Book | |
@@ -28,7 +30,6 @@
 | Genius: Richard Feynman and Modern Physics by James Gleick | Book ||
 | Quantum Man: Richard Feynman's Life in Science by Lawrence M. Krauss| Book ||
 | Strange Beauty: Murray Gell-Mann and the Revolution in Twentieth-Century Physics by George Johnson (First publ. 2000) | Book ||
-
-
-
+| Einstein's Tutor: The STory of Emmy Noether and the Invention of Modern Physics by Lee Phillips (Sept 2024) | Book | |
+| Maker of Patterns: An Autobiography Through Letters by Freeman Dyson (2018) | Book | |
 
