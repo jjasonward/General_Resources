@@ -1,5 +1,11 @@
 # Jason's Resources
 
+## Statistics
+
+| Reference | Type | Comment |
+|--------|-----|---------|
+| [Statistics: A Guide to the Use of Statistical Methods in the Physical Sciences](https://www.amazon.co.uk/Statistics-Statistical-Physical-Sciences-Manchester/dp/0471922951/) by R. Barlow | Book | Good intro for a 1st year undergraduate |
+
 ## General Python 
 
 | Reference | Type | Comment |
