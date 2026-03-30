@@ -4,7 +4,9 @@
 
 | Reference | Type | Comment |
 |--------|-----|---------|
-| [Statistics: A Guide to the Use of Statistical Methods in the Physical Sciences](https://www.amazon.co.uk/Statistics-Statistical-Physical-Sciences-Manchester/dp/0471922951/) by R. Barlow | Book | Good intro for a 1st year undergraduate |
+| [Statistics: A Guide to the Use of Statistical Methods in the Physical Sciences](https://www.amazon.co.uk/Statistics-Statistical-Physical-Sciences-Manchester/dp/0471922951/) by R. Barlow | Book | Good intro for a 1st year undergraduate. Available from CERN bookshop. |
+| [Statistical Data Analysis](https://www.amazon.co.uk/Statistical-Analysis-Oxford-Science-Publications/dp/0198501560/)) by G. Cowan | Book | Essential introduction for the experimental particle physicist. Available from CERN bookshop. |
+| [Statistics for nuclear and particle physics](https://www.amazon.co.uk/Statistics-Nuclear-Particle-Physicists-Louis/dp/0521379342/) by L. Lyons | Book | Classic. Available from CERN bookshop. |
 
 ## General Python 
 
