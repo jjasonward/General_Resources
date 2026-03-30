@@ -8,6 +8,7 @@
 | [Statistical Data Analysis](https://www.amazon.co.uk/Statistical-Analysis-Oxford-Science-Publications/dp/0198501560/) by G. Cowan | Book | Essential introduction for the experimental particle physicist. Available from CERN bookshop. |
 | [Statistics for nuclear and particle physics](https://www.amazon.co.uk/Statistics-Nuclear-Particle-Physicists-Louis/dp/0521379342/) by L. Lyons | Book | Classic. Available from CERN bookshop. |
 | [All of Statistics](https://www.amazon.co.uk/All-Statistics-Statistical-Inference-Springer/dp/1441923225/) by L. Wasserman | Book | |
+| [Statistical Rethinking: A Bayesian Course with Examples in R and STAN](https://www.amazon.co.uk/All-Statistics-Statistical-Inference-Springer/dp/1441923225/) by R. McElreath | Book | |
 
 ## General Python 
 
