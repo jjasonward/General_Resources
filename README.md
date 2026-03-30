@@ -9,6 +9,7 @@
 | [Statistics for nuclear and particle physics](https://www.amazon.co.uk/Statistics-Nuclear-Particle-Physicists-Louis/dp/0521379342/) by L. Lyons | Book | Classic. Available from CERN bookshop. |
 | [All of Statistics](https://www.amazon.co.uk/All-Statistics-Statistical-Inference-Springer/dp/1441923225/) by L. Wasserman | Book | |
 | [Statistical Rethinking: A Bayesian Course with Examples in R and STAN](https://www.amazon.co.uk/All-Statistics-Statistical-Inference-Springer/dp/1441923225/) by R. McElreath | Book | |
+| [Statistics for Experimenters: Design, Innovation, and Discovery](https://www.amazon.co.uk/Statistics-Experimenters-Innovation-Discovery-Probability/dp/0471718130/) by G.E.P. Box, J.S.Hunter and W.G.Hunter | Book | A personal favourite |  
 
 ## General Python 
 
