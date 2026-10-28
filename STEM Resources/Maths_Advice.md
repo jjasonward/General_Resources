@@ -66,3 +66,8 @@ There was a thing I didn't consciously recognise until my mid-twenties, which is
 1. "A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)" by Barbara Oakley PhD. An entire book, in the same vein as my thoughts above. A must read if it's the one thing you get from this book list.
 2. "How to Solve It: A New Aspect of Mathematical Method" by George Polya. 
 3. (Two books) "The Art of Statistics: Learning from Data" and "The Art of Uncertainty: How to Navigate Chance, Ignorance, Risk and Luck", both  by David Spiegelhalter. Given that Data and AI are so central to our lives, having an appreciation of uncertainty and risk as soon as possible is a big benefit.
+
+## Other Resources
+
+1. 3Blue1Brown on YouTube
+2. petal.byte on Instagram
