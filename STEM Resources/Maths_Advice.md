@@ -50,7 +50,7 @@ A picture is a thousand words, and many people are visual thinkers. So, if the p
 
 ## Visualise where you can
 
-Trusted Youtube channels like 3Blue1Brown demonstrate just how useful it is to visualise. As a teenager I only had teachers and textbooks, and if they didn't explain it in a way that worked for me, I got a stuck. There is much more opportunity these days to find something that works for your way of thinking, but there is wisdom needed to find good resources and avoid sloppy media, so look for reliable references. 
+Trusted Youtube channels like 3Blue1Brown demonstrate just how useful it is to visualise. As a teenager I only had teachers and textbooks, and if they didn't explain it in a way that worked for me, I got a bit stuck. There is much more opportunity these days to find something that works for your way of thinking, but there is wisdom needed to find good resources and avoid sloppy media, so look for reliable references. 
 
 ## Persistence
 
