@@ -30,9 +30,11 @@ Whilst it feels good to get improved or high marks on tests, it's the patterns o
 
 There are a number of aspects to this. 
 
-	1. You should make sure you show all of your working and thinking even though you are fully solving a problem and confident you have got it right. Indeed, laying out all of your working can be a key part of giving yourself the confidence you have solved a problem correctly. 
-	2. Help the teachers to teach you. Showing your thinking when you are getting stuck is crucial, because this helps other people to help you. When it comes to applying to University, people will probably test you by deliberately giving you a tough problem to get you stuck and see how you cope. They are figuring out if you are teachable.
-	3. Later on in professional life, you may have to have your work peer reviewed e.g. you have done an analysis on a dataset that leads to an important decision or outcome. To support transparency and build trust, you need to show how you arrived at an answer.
+1. You should make sure you show all of your working and thinking even though you are fully solving a problem and confident you have got it right. Indeed, laying out all of your working can be a key part of giving yourself the confidence you have solved a problem correctly. 
+	
+2. Help the teachers to teach you. Showing your thinking when you are getting stuck is crucial, because this helps other people to help you. When it comes to applying to University, people will probably test you by deliberately giving you a tough problem to get you stuck and see how you cope. They are figuring out if you are teachable.
+
+3. Later on in professional life, you may have to have your work peer reviewed e.g. you have done an analysis on a dataset that leads to an important decision or outcome. To support transparency and build trust, you need to show how you arrived at an answer.
   
 ## Be curious and develop curiosity
 
