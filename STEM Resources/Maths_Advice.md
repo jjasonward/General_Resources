@@ -1,10 +1,12 @@
-More than 35 years later, looking back, the maths that I learned at A-Level has been one of the most important foundations of my career as a scientist. I've used at least that level of maths almost every day. 
+# Introduction
 
-These days, some mathematical capability is even more important, as data, algorithms, statistics and Artificial Intelligence (AI) are becoming central to our lives. So the investment in effort you make now studying for maths A-levels can pay large dividends across many future decades. 
+More than 35 years later, looking back, the maths that I learned at A-Level (in the UK, these are exams taken aged 16-19 pre-University) has been one of the most important foundations of my career as a scientist. I've used that level of maths most days in my career. 
 
-It's an adaptable skill that you can develop for the problem at hand, across a great many subjects and applications. 
+These days, some mathematical capability is even more important, as data, algorithms, statistics and Artificial Intelligence (AI) are becoming central to our lives. So the investment in effort you make now studying for maths A-levels can pay large dividends across many future decades. Even with AI becoming mathematically capable, it's my belief and intuition that AI will push forward the role of maths in society, and that the skills will be needed as much as ever.
 
-It was also a source of joy -  getting stuck on problems and subsequently having moments of insight, in addition to developing your mind to solve problems and learning about yourself.
+Maths, and its associated skills when developing mathematical capability, are adaptable skills that you can develop for the problem at hand, across a great many subjects and applications. 
+
+Learning maths was also a source of joy -  getting stuck on problems and subsequently having moments of insight, in addition to developing your mind to solve problems and learning about yourself.
 
 Here are some thoughts to help guide you.
 
@@ -18,11 +20,11 @@ Sometimes people negatively pre-judge a topic before (or as) they have started t
 
 ## Practice, practice, practice
 
-As with many disciplines, practice is the key. Do as many tests and past papers that you can get your hands on. Then, when it comes to the real exams, they will just be another set of questions and you'll have confidence. This is particularly true of maths, where there is less memorisation work than other subjects (e.g. Chemistry), so practice plays a prominent role. I didn't know this so explicitly at the time, but I had good teachers, and one teacher kept surprising us with tests. It worked wonders.
+As with many disciplines, practice is the key. Do as many tests and past papers that you can get your hands on. Then, when it comes to the real exams, they will just be another set of questions and you'll have confidence. This is particularly true of maths, where there is less memorisation work than other subjects (e.g. Chemistry), so practice plays a prominent role. I didn't know this so explicitly at the time, but I had good teachers, and one teacher (who taught me mechanics) kept surprising us with tests. It worked wonders.
 
 ## Get familiar with the kinds of mistakes you make
 
-Whilst it feels good to get high marks on tests, it's the patterns of failure that are interesting, and the feedback loop you have on yourself to improve yourself. Understand the kinds of mistakes you make and tackle those, then you will improve effectively. This is true of any level you are at. Try not to be complacent if you are getting high marks - if you are making errors there is still a chance to improve and understand your weak spots.
+Whilst it feels good to get improved or high marks on tests, it's the patterns of failure that are interesting, and the feedback loop you have on yourself to improve yourself. Understand the kinds of mistakes you make and tackle those, then you will improve effectively. This is true of any level you are at. Try not to be complacent if you are getting high marks - if you are making errors there is still a chance to improve and understand your weak spots.  You can keep a notebook of errors and learn about the kinds of mistakes you make, so you can spot patterns and understand the biggest issues to deal with.
 
 ## Show your working
 
