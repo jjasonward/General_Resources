@@ -32,15 +32,17 @@ There are a number of aspects to this.
 
 1. You should make sure you show all of your working and thinking even though you are fully solving a problem and confident you have got it right. Indeed, laying out all of your working can be a key part of giving yourself the confidence you have solved a problem correctly. 
 	
-2. Help the teachers to teach you. Showing your thinking when you are getting stuck is crucial, because this helps other people to help you. When it comes to applying to University, people will probably test you by deliberately giving you a tough problem to get you stuck and see how you cope. They are figuring out if you are teachable.
+2. Help the teachers to teach you. Showing your thinking when you are getting stuck is crucial, because this helps other people to help you. When it comes to applying to University, people will probably test you by deliberately giving you a tough problem to get you stuck and see how you cope. They are figuring out if you are teachable. If you're stuck on a homework problem, don't just return a blank answer... try to show what you're thinking and say why you are stuck. The act of articulating that might even help you solve the problem yourself!  
 
 3. Later on in professional life, you may have to have your work peer reviewed e.g. you have done an analysis on a dataset that leads to an important decision or outcome. To support transparency and build trust, you need to show how you arrived at an answer.
   
 ## Be curious and develop curiosity
 
 This enters in a number of ways:
-	1. Sometimes a problem is complicated and you need to explore avenues to get clarity, even though those avenues are a dead end. Curiosity is one of the drivers of exploration, and exploring in itself is part of the pleasure of the process.
-	2. Maths can be studied in its own right, but it is the key language behind many subjects. This is obvious with science subjects like physics, but underpins very many subjects, and the very foundations of AI itself. It's worth taking the subject(s) you are interested in and becoming aware of how maths feeds into it.
+
+1. Sometimes a problem is complicated and you need to explore avenues to get clarity, even though those avenues are a dead end. Curiosity is one of the drivers of exploration, and exploring in itself is part of the pleasure of the process.
+
+2. Maths can be studied in its own right, but it is the key language behind many subjects. This is obvious with science subjects like physics, but underpins very many subjects, and the very foundations of AI itself. It's worth taking the subject(s) you are interested in and becoming aware of how maths feeds into it.
 
 ## Draw a good diagram
 
@@ -48,11 +50,11 @@ A picture is a thousand words, and many people are visual thinkers. So, if the p
 
 ## Visualise where you can
 
-Trusted Youtube channels like 3Blue1Brown demonstrate just how useful it is to visualise. In my old days I only had teachers and textbooks, and if they didn't explain it in a way that worked for me, I got a bit stuck. There is much more opportunity these days to find something that works for your way of thinking, but there is wisdom needed to find good resources and avoid sloppy media. 
+Trusted Youtube channels like 3Blue1Brown demonstrate just how useful it is to visualise. As a teenager I only had teachers and textbooks, and if they didn't explain it in a way that worked for me, I got a stuck. There is much more opportunity these days to find something that works for your way of thinking, but there is wisdom needed to find good resources and avoid sloppy media, so look for reliable references. 
 
 ## Persistence
 
-Persistence is a blessing and a curse, but mostly a blessing. Persistence is needed to solve problems when you can sense the solution exists, but the risk is that you persist down the wrong route. It's also important for learning new concepts. I often did not get things first time around (and sometimes not the second, third or fourth time). Persistence combined with looking at a problem from different perspectives invariably leads to the reward of insight.  
+Persistence is a blessing and a curse, but mostly a blessing. Persistence is needed to solve problems when you can sense the solution exists, but the risk is that you persist down the wrong route. It's also important for learning new concepts. I often did not get things first time around (and sometimes not the second, third or fourth time). Persistence combined with looking at a problem from different perspectives invariably leads to the reward of insight. I often felt I was slower to understand than other people, but through persistence I got to answers. The reward for me was that I quite often could see things and connections more deeply than others.  
 
 ## Finding balance in life
 
@@ -60,11 +62,11 @@ It is an intense time learning a lot of maths, and it means spending a lot of li
 
 ## Appreciating uncertainty and probability
 
-Since I studied mechanics instead of statistics at A-level, I was a late-starter in properly understanding statistics. It wasn't until my final undergraduate year at University that I had a data intensive problem to solve that I had to work through some statistics. Human brains tend not to like uncertainty, and doing mechanics reinforced the idea that everything has a nice predictable outcome.  Then my mental world got challenged when I had to (a) analyse data and (b) deal with quantum physics, which is inherently uncertain. So the sooner you feel comfortable that statistics as a branch of maths deals with uncertainty, probability and risk, the better. For me, it lead, in time, to a much deeper acceptance of uncertainties in life. I even wrote a blog about it in 2019, see  https://www.valtech.com/blog/know-thy-error/
+Since I studied mechanics instead of statistics at A-level, I was a late-starter in properly understanding statistics. It wasn't until my final undergraduate year at University that I had a data-intensive problem to solve that I had to work through some statistics with real data. Human brains tend not to like uncertainty, and doing mechanics reinforced the idea that everything has a nice predictable outcome.  Then my mental world got challenged when I had to (a) analyse data and (b) deal with quantum physics, which is inherently uncertain. So the sooner you feel comfortable that statistics as a branch of maths deals with uncertainty, probability and risk, the better. For me, it lead, in time, to a much deeper acceptance of uncertainties in life. I even wrote a blog about it in 2019, see  https://www.valtech.com/blog/know-thy-error/
 
 ## Stay calm and breathe
 
-There was a thing I didn't consciously recognise until my mid-twenties, which is the role of quietening the mind in relation to problem solving. This is related to the prior point on finding balance in life and how people seek inspiration. It is paradoxical, because it's tempting to think that technical problem solving is in the realm of conscious thought. However, once the brain knows what the problem is, in detail, it's beneficial to quieten the brain down whilst the problem is still in focus. This can be done by paying attention to the breathing, which also helps to calm you down. It's also why other activities like exercise and music are helpful. After some moments or minutes of quietness, I'd often find an answer would pop into mind, sometimes a surprising one. Intelligence is more than just a string of words in your conscious thought. Experiment with it! 
+There was a thing I didn't consciously recognise until my mid-twenties in my PhD studies, which is the role of quietening the mind in relation to problem solving. This is related to the prior point on finding balance in life and how people seek inspiration. It is paradoxical, because it's tempting to think that technical problem solving is in the realm of conscious thought. However, once the brain knows what the problem is, in detail, it's beneficial to quieten the brain down whilst the problem is still in focus. This can be done by paying attention to the breathing, which also helps to calm you down. It's also why other activities like exercise and music are helpful. After some moments or minutes of quietness, I'd often find an answer would pop into mind, sometimes a surprising one. Intelligence is more than just a string of words in your conscious thought. Experiment with it! 
 
 ## Book Recommendations
 
@@ -75,4 +77,8 @@ There was a thing I didn't consciously recognise until my mid-twenties, which is
 ## Other Resources
 
 1. 3Blue1Brown on YouTube
-2. petal.byte on Instagram
+2. petal.byte on Instagram. Although lots of this is about maths in machine learning, there is quite a lot of material about learning.
+
+## Statement of AI Usage
+
+AI has not been used in any way to write this document. It is entirely human.
