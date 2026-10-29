@@ -84,7 +84,7 @@ There was a thing I didn't consciously recognise until my mid-twenties in my PhD
 
 ## Thoughts on using AI
 
-The bottom line is that I think that AI us useful for learning, but this has a lot of nuance and detail to it. I'm currently learning how to use it for learning, but it is trial and error.  We're all still experimenting with how it can help us, but there are big risks to using it to replace developing your own thinking capability.
+The bottom line is that I think that AI is useful for learning, but this has a lot of nuance and detail to it. I'm currently learning how to use it for learning, but it is trial and error.  We're all still experimenting with how it can help us, but there are big risks to using it to replace developing your own thinking capability.
 
 Crucially, you should not use AI to directly solve your homework problems! You will be denying yourself the development of many of the skills and traits mentioned above.
 
