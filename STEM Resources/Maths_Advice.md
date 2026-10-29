@@ -71,12 +71,15 @@ There was a thing I didn't consciously recognise until my mid-twenties in my PhD
 ## Book Recommendations
 
 1. "A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)" by Barbara Oakley PhD. An entire book, in the same vein as my thoughts above. **A must read if it's the one thing you get from this book list.**
+
 2. "How to Solve It: A New Aspect of Mathematical Method" by George Polya. 
+
 3. (Two books) "The Art of Statistics: Learning from Data" and "The Art of Uncertainty: How to Navigate Chance, Ignorance, Risk and Luck", both  by David Spiegelhalter. Given that Data and AI are so central to our lives, having an appreciation of uncertainty and risk as soon as possible is a big benefit.
 
 ## Other Resources
 
 1. 3Blue1Brown on YouTube
+
 2. petal.byte on Instagram. Although lots of this is about maths in machine learning, there is quite a lot of material about learning.
 
 ## Thoughts on using AI
@@ -88,9 +91,12 @@ Crucially, you should not use AI to directly solve your homework problems! You w
 Having said that, I'm experimenting with how AI can help. I think it's useful in a number of areas:
 
 1. Helping to explain a concept for you. You can find appropriate resources, and tell it what you're struggling with, to see if it leads you to a moment of insight.
+
 2. It can produce visuals and infographics that help with memory. However, be very careful indeed that the information is correct - check it first for accuracy before using it to remember things.
-4. You can ask it to tell you what common misconceptions and mistakes are with certain problems. Understanding incorrect lines of thought will broaden and deepen understanding.
-5. You can develop practice problems around your own weaknesses.
+
+3. You can ask it to tell you what common misconceptions and mistakes are with certain problems. Understanding incorrect lines of thought will broaden and deepen understanding.
+
+4. You can develop practice problems around your own weaknesses.
 
 ## Statement of AI Usage
 
