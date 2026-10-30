@@ -86,7 +86,7 @@ There was a thing I didn't consciously recognise until my mid-twenties in my PhD
 
 The bottom line is that I think that AI is useful for learning, but this has a lot of nuance and detail to it. I'm currently learning how to use it for learning, but it is trial and error.  We're all still experimenting with how it can help us, but there are big risks to using it to replace developing your own thinking capability.
 
-Crucially, you should not use AI to directly solve your homework problems! You will be denying yourself the development of many of the skills and traits mentioned above.
+Crucially, you should not use AI to directly solve your homework problems! You will be denying yourself the development of many of the human skills and traits mentioned above.
 
 Having said that, I'm experimenting with how AI can help. I think it's useful in a number of areas:
 
@@ -98,6 +98,8 @@ Having said that, I'm experimenting with how AI can help. I think it's useful in
 
 4. You can develop practice problems around your own weaknesses.
 
+5. You can ask it to tell you how something in maths relates to another subject you are interested in. For example, you can ask "what are the applications of hyperbolic functions in mathematics to healthcare and the life sciences?", and even if you don't study the answer in detail, it can bump up your motivation for studying a maths topic.
+
 ## Statement of AI Usage
 
-AI has not been used in any way to write this document. It is entirely human.
+AI has not been used in any way to write this document. It has been written entirely by a human and reviewed by other humans!
