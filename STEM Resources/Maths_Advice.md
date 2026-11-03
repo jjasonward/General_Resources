@@ -2,7 +2,7 @@
 
 More than 35 years later, looking back, the maths that I learned at A-Level (in the UK, these are exams taken aged 16-19 pre-University) has been one of the most important foundations of my career as a scientist. I've used that level of maths most days in my career.  These thoughts are aimed at that age range, but there are many relevant points for younger students interested in maths.
 
-These days, some mathematical capability is even more important, as data, algorithms, statistics and Artificial Intelligence (AI) are becoming central to our lives. So the investment in effort you make now studying for maths A-levels can pay large dividends across many future decades. Even with AI becoming mathematically capable, it's my belief and intuition that AI will push forward the role of maths in society, and that the skills will be needed as much as ever.
+These days, some mathematical capability is even more important, as data, algorithms, statistics and Artificial Intelligence (AI) are becoming central to our lives. So the investment in effort you make now studying for maths A-levels can pay large dividends across many future decades. Even with AI becoming mathematically capable, it's my belief and intuition that AI will push forward the role of maths in society, and that the skills developed when learning maths as a teenager will be needed as much as ever.
 
 Maths, and its associated skills when developing mathematical capability, are adaptable skills that you can develop for the problem at hand, across a great many subjects and applications. 
 
