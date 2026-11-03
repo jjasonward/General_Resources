@@ -10,6 +10,14 @@ Learning maths was also a source of joy -  getting stuck on problems and subsequ
 
 Here are some thoughts to help guide you. It's a note to my younger self.
 
+## Choosing Maths
+
+In the UK, the first major school exams are at 16 years old.  After that, there is a significant narrowing of subjects to study for 16-18/19 y.o. that affects the long-term career, so this decision point is important.
+
+For me at 16 years old, I had a clear choice between art or science. I was good at art, enjoyed it, and the career advisor told me I'd be an architect, because of how detailed my art was. However, I was passionate about physics, and could sense the mysterious Universe. I also recognised that this needed mathematical capability. I chose maths and science subjects for A-Levels on the basis that I felt I needed good teachers (which indeed I did get) to help me develop the skills and that I could come back to art later.
+
+Whenever you are making choices, including what to study, I'd recommend thinking frameworks like [Edward de Bono's "Points of View" thinking lessons](https://www.debono.com/de-bono-thinking-lessons-1) and one of my favourite examples is the [PMI (Plus, Minus, Interesting) approach](https://www.debono.com/de-bono-thinking-lessons-1/1.-pmi-lesson-workcard) to being open-minded, which you can apply to the subjects you are thinking about choosing.
+
 ## Mechanics vs Statistics
 
 There's often a choice between doing mechanics or statistics modules. If you're inclined to be a physicist or engineer, mechanics makes sense - and that is the route I took because I was certainly a physicist in the making. However, if you're mixing maths with other subjects, statistics makes a lot of sense. As a discipline, statistics touches all walks of life, and a grounding in statistics is powerful in a wide variety of sectors and subjects. I wish I had got into statistics a lot sooner than I did - it empowers you to correctly interpret results from data, which feeds into decision making. I am a member of the UK's Royal Statistical Society, which is a reflection of just how important I think this part of maths is in the real world. I'll come back to this under the topic of uncertainty.
@@ -62,7 +70,7 @@ It is an intense time learning a lot of maths, and it means spending a lot of li
 
 ## Appreciating uncertainty and probability
 
-Since I studied mechanics instead of statistics at A-level, I was a late-starter in properly understanding statistics. It wasn't until my final undergraduate year at University that I had a data-intensive problem to solve that I had to work through some statistics with real data. Human brains tend not to like uncertainty, and doing mechanics reinforced the idea that everything has a nice predictable outcome.  Then my mental world got challenged when I had to (a) analyse data and (b) deal with quantum physics, which is inherently uncertain. So the sooner you feel comfortable that statistics as a branch of maths deals with uncertainty, probability and risk, the better. For me, it lead, in time, to a much deeper acceptance of uncertainties in life. I even wrote a blog about it in 2019, see  https://www.valtech.com/blog/know-thy-error/
+Since I studied mechanics instead of statistics at A-level, I was a late-starter in properly understanding statistics. It wasn't until my final undergraduate year at University that I had a data-intensive problem to solve that I had to work through some statistics with real data. Human brains tend not to like uncertainty, and doing mechanics reinforced the idea that everything has a nice predictable outcome.  Then my mental world got challenged when I had to (a) analyse data and (b) deal with quantum physics, which is inherently uncertain. So the sooner you feel comfortable that statistics as a branch of maths deals with uncertainty, probability and risk, the better. For me, it lead, in time, to a much deeper acceptance of uncertainties in life. I even wrote a blog about it in 2019, see [link here](https://www.valtech.com/blog/know-thy-error/).
 
 ## Stay calm and breathe
 
@@ -70,11 +78,11 @@ There was a thing I didn't consciously recognise until my mid-twenties in my PhD
 
 ## Book Recommendations
 
-1. "A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)" by Barbara Oakley PhD. An entire book, in the same vein as my thoughts above. **A must read if it's the one thing you get from this book list.**
+1. ["A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)"](https://www.amazon.co.uk/Mind-Numbers-Science-Flunked-Algebra/dp/B09HSS3M6D/) by Barbara Oakley PhD. An entire book, in the same vein as my thoughts above. **A must read if it's the one thing you get from this book list.**
 
-2. "How to Solve It: A New Aspect of Mathematical Method" by George Polya. 
+2. ["How to Solve It: A New Aspect of Mathematical Method"](https://www.amazon.co.uk/dp/0140124993/) by George Polya. 
 
-3. (Two books) "The Art of Statistics: Learning from Data" and "The Art of Uncertainty: How to Navigate Chance, Ignorance, Risk and Luck", both  by David Spiegelhalter. Given that Data and AI are so central to our lives, having an appreciation of uncertainty and risk as soon as possible is a big benefit.
+3. (Two books) ["The Art of Statistics: Learning from Data"](https://www.amazon.co.uk/dp/B0D389CD4W/) and ["The Art of Uncertainty: How to Navigate Chance, Ignorance, Risk and Luck"](https://www.amazon.co.uk/dp/B0D389L2BM/), both  by David Spiegelhalter. Given that Data and AI are so central to our lives, having an appreciation of uncertainty and risk as soon as possible is a big benefit.
 
 ## Other Resources
 
