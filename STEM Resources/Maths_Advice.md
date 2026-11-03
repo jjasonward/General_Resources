@@ -4,7 +4,7 @@ More than 35 years later, looking back, the maths that I learned at A-Level (in 
 
 These days, some mathematical capability is even more important, as data, algorithms, statistics and Artificial Intelligence (AI) are becoming central to our lives. So the investment in effort you make now studying for maths A-levels can pay large dividends across many future decades. Even with AI becoming mathematically capable, it's my belief and intuition that AI will push forward the role of maths in society, and that the skills developed when learning maths as a teenager will be needed as much as ever.
 
-Maths, and its associated skills when developing mathematical capability, are adaptable skills that you can develop for the problem at hand, across a great many subjects and applications. 
+Maths, and its associated skills when developing mathematical capability, are adaptable skills that you can develop and then apply across a great many subjects and situations through life. 
 
 Learning maths was also a source of joy -  getting stuck on problems and subsequently having moments of insight, in addition to developing your mind to solve problems and learning about yourself.
 
